@@ -19,7 +19,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/CodinGame/semantic-release-rules.git"
+    "url": "git+https://github.com/CodinGame/semantic-release-rules.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
